@@ -1,0 +1,9 @@
+# ignore files
+node_modules
+package-lock.json
+public/*
+.env
+
+
+# but keep the folder
+!public/.gitkeep
